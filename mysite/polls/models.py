@@ -5,7 +5,7 @@ from django.utils import timezone
 
 
 # Create your models here.
-# random comment
+# Even more random comment Kamil
 
 class Question(models.Model):
     question_text = models.CharField(max_length=200)
